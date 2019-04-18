@@ -9,7 +9,7 @@ Vue.config.productionTip = false
 
 
 const server = axios.create({
-    baseURL: 'https://hacktivoverflow-1.herokuapp.com'
+    baseURL: 'https://vueblog-server.herokuapp.com'
     // baseURL: 'http://localhost:3000'
 
 })

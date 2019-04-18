@@ -3,7 +3,7 @@ import Vuex from 'vuex'
 import axios from 'axios'
 
 const server = axios.create({
-    baseURL: 'https://hacktivoverflow-1.herokuapp.com'
+    baseURL: 'https://vueblog-server.herokuapp.com'
     // baseURL: 'http://localhost:3000'
 })
 
